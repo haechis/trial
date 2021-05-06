@@ -17,5 +17,6 @@ int main(){
     std::cout<<"func1(1): "<<func1(1);
     std::cout<<"\n";
 
+    Vector3D t;
     return 0;
 }
