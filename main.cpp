@@ -4,6 +4,13 @@
 
 #include "myHeader.h"
 
+class Vertor3D{
+private:
+    double x,y,z;
+
+
+};
+
 int main(){
     std::cout<<"Hello Wordl!\n";
 
